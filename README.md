@@ -9,4 +9,11 @@
     2. Type python3 calculatorstub.py
   ## Limitation
    This code cannot handle input in following format '1,,2,3'
+  ## Sample output
+    python3 calculatorstub.py 
+    .........
+    ----------------------------------------------------------------------
+    Ran 9 tests in 0.001s
+    OK
+  
     
