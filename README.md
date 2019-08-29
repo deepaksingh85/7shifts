@@ -8,6 +8,5 @@
     1. Open terminal
     2. Type python3 calculatorstub.py
   ## Limitation
-   This code cannot handle input in following format:
-    1. '1,,2,3'
+   This code cannot handle input in following format '1,,2,3'
     
